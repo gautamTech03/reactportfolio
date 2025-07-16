@@ -25,22 +25,23 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-ul{
+/* ul{
   display: flex;
   margin-top: 20px;
   margin-left: 20px;
   font-size: 25px;
-}
+} */
 
-li{
+/* .Navlink{
   margin-right:50px;
   color:#fffdfd;
-
-}
-
+  
+} */
+/* 
 img{
   width:200px;
   height: 200px;
   align-items: center;
   margin-left: 500px;
-}
+} */
+

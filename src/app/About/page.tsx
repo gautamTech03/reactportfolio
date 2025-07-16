@@ -1,6 +1,6 @@
 export default function About(){
     return(
-    <div>
+    <div className="pt-10">
    coderrr........
     </div>
 )

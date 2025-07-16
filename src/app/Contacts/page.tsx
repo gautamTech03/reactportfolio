@@ -1,6 +1,6 @@
 export default function Contacts(){
     return(
-    <div>
+    <div className="ms-8">
     8779164295
     </div>
 )
